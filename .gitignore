@@ -7,7 +7,7 @@ yarn-error.log*
 /test/unit/coverage/
 /test/e2e/reports/
 selenium-debug.log
-src/*/config.js
+src/config.js
 src/pages/OLD/
 src/store/modules/OLD/
 firebase-messaging-sw.js
