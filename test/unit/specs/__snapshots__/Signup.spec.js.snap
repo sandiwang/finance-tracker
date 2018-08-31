@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Signup.vue renders the correct link to sign in page 1`] = `
+<div class="links my-4">Or
+    <router-link to="/signin" class="my-4">sign in</router-link>
+</div>
+`;

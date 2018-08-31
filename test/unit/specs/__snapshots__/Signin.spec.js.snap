@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Signin.vue has correct link to sign up page 1`] = `"Or sign up"`;

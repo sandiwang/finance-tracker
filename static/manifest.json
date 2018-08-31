@@ -1,0 +1,14 @@
+{
+  "short_name": "Finance Tracker",
+  "name": "Personal Finance Tracker",
+  "icons": [
+    {
+      "src": "/static/icon.png",
+      "type": "image/png",
+      "sizes": "16x16"
+    }
+  ],
+  "start_url": "/",
+  "gcm_sender_id": "103953800507",
+  "display": "standalone"
+}
